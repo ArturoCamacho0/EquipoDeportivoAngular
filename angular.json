@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "EquipoDeportivoAngular"
+    }
+  },
+  "defaultProject": "EquipoDeportivoAngular",
+  "cli": {
+    "analytics": false
+  }
 }
